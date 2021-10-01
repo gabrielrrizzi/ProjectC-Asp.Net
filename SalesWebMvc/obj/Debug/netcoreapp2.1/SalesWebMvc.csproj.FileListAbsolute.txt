@@ -41,3 +41,5 @@ C:\Users\grizzi\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Raz
 C:\Users\grizzi\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\grizzi\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Seller\Index.cshtml.g.cs
 C:\Users\grizzi\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Seller\Create.cshtml.g.cs
+C:\Users\grizzi\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Seller\Delete.cshtml.g.cs
+C:\Users\grizzi\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Seller\Details.cshtml.g.cs
